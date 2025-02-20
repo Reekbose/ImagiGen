@@ -17,7 +17,7 @@ Create a Python virtual environment and install Gradio using the following comma
 ```bash
 pip install virtualenv 
 virtualenv my_env # create a virtual environment my_env
-source my_env/bin/activate # activate my_env
+my_env\Scripts\Activate # activate my_env
 ```
 ### STEP 01- installing required libraries in my_env
 
