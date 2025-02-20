@@ -4,7 +4,7 @@
 This project focuses on classifying and naming images using machine learning techniques. It processes images, extracts features, and assigns appropriate labels based on the trained model.
 
 # Features
- 1.Loads and preprocesses images
+ 1.Loads and preprocesses images/n
  2.Extracts features for classification
  3.Applies a machine learning model for labeling
  4.Saves the results in a structured format
