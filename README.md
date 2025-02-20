@@ -4,7 +4,7 @@
 This project focuses on classifying and naming images using machine learning techniques. It processes images, extracts features, and assigns appropriate labels based on the trained model.
 
 # Features
- 1.Loads and preprocesses images /n
+ 1.Loads and preprocesses images 
  2.Extracts features for classification
  3.Applies a machine learning model for labeling
  4.Saves the results in a structured format
@@ -77,6 +77,8 @@ python3 image_cap.py
 ### We use Gradio to implement image captioning app 
 
 ### STEP 01- create a new Python file and call it image_captioning_app.py
+
+### Run pip install gradio transformers Pillow to install Gradio, Transformers, and Pillow.
 
 ```bash
 import gradio as gr
